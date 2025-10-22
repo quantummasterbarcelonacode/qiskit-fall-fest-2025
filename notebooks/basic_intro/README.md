@@ -1,10 +1,7 @@
-# Reference notebooks for practice or help
+# NB's with no corrections
 
-There are two types:
+- `hello_world.ipynb`: Very short notebook, easy to install and execute, for first testing.
 
-- `notebooks_with_no_corrections`: where you don't get any feedback if what you coded is correct, but they are easy to execute, and install, maybe a better first approach.
+- `qiskit_fundamentals.ipynb`: Longer notebook, to familiarize with diverse uses of qiskit.
 
-- `notebooks_with_corrections`: (called graded by IBM), where you get feedback of your answers.
-
-
-If problems with installation, try `Notebook0_QFFMQST.ipynb` from `notebooks_with_no_corrections`.
+If problems with installation, try `hello_world.ipynb`.

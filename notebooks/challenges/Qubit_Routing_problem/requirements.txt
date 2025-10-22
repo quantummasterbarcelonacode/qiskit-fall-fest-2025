@@ -2,8 +2,8 @@ numpy
 scipy
 matplotlib
 jupyter
-qiskit[visualization]==1.2
+qiskit[visualization]==2.2
 qiskit_algorithms
-qiskit_aer >= 0.14
+qiskit_aer
 qiskit_ibm_runtime
 qiskit_ibm_transpiler
