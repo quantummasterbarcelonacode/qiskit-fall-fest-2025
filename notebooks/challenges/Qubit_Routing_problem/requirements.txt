@@ -1,9 +1,0 @@
-numpy
-scipy
-matplotlib
-jupyter
-qiskit[visualization]==2.2
-qiskit_algorithms
-qiskit_aer
-qiskit_ibm_runtime
-qiskit_ibm_transpiler
