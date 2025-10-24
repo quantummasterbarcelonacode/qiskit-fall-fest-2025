@@ -1,9 +1,0 @@
-numpy==2.3.4
-scipy==1.16.2
-matplotlib==3.10.7
-jupyter
-qiskit[visualization]==2.2
-qiskit_algorithms==0.4.0
-qiskit_aer==0.17.2
-qiskit_ibm_runtime==0.41.1
-qiskit_ibm_transpiler==0.14.3
